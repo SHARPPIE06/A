@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "almeydaxynn@gmail.com",
+    "password": "Xynn27+",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,7 +18,6 @@
   },
   "adminBot": [
     "100009041075509",
-    "100031189595857",
     ""
   ],
   "whiteListMode": {
@@ -81,11 +80,11 @@
   },
   "autoRefreshFbstate": true,
   "autoReloginWhenChangeAccount": false,
-  "autoRestartWhenListenMqttError": false,
+  "autoRestartWhenListenMqttError": true,
   "restartListenMqtt": {
-    "enable": false,
-    "timeRestart": 0,
-    "delayAfterStopListening": 2000,
+    "enable": true,
+    "timeRestart": 10000,
+    "delayAfterStopListening": 1000,
     "logNoti": true,
     "notes": "the value of timeRestart and delayAfterStopListening is milisecond, You shouldn't edit this if you don't know what it is"
   },
