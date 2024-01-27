@@ -3,10 +3,6 @@
   "version": "1.5.23",
   "description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
   "main": "index.js",
-  "engines": {
-    "node": "16.x",
-    "npm": ">=7.0.0"
-  },
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "axios": "^1.4.0",
