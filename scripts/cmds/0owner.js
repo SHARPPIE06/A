@@ -27,12 +27,12 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝚇𝚢𝚗𝚗 𝙰𝚕𝚖𝚎𝚢𝚍𝚊',
+          name: 'Harley Pacoli',
           gender: '𝙼𝚊𝚕𝚎',
-          hobby: '𝙼𝚊𝚐 𝚛𝚎𝚕𝚊𝚙𝚜𝚎',
-          relationship: '𝚆𝚒𝚝𝚑 99+',
-          facebookLink: 'https://www.facebook.com/AlMeydakiAn24',
-          bio: '𝙳𝚘𝚗𝚝 𝚜𝚙𝚎𝚗𝚍 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚢𝚎𝚊𝚛 𝚍𝚘𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚊𝚖𝚎 𝚜𝚑𝚒𝚝'
+          hobby: 'Badminton🫶',
+          relationship: 'SINGLE',
+          facebookLink: 'https://www.facebook.com/harley.pacoli.9?mibextid=ZbWKwL',
+          bio: 'Nothing goes as planned'
         };
 
         const videoUrl = 'https://drive.google.com/uc?export=download&id=1uFLIV0C-yqArk-Ne-_4HfWa-KtRw4S7d';
