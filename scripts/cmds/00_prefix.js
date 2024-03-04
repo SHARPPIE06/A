@@ -21,11 +21,11 @@ module.exports = {
 Hello! It look's like you're not familiar with my prefix!, here's a guide, use this:
 
 
- ☃️ SYSTEM PREFIX: [+]
- ✨ BOX CHAT PREFIX: [+]
+ ☃️ SYSTEM PREFIX: [*]
+ ✨ BOX CHAT PREFIX: [*]
 
 
-OWNER: https://www.facebook.com/AlMeydakiAn24`,
+OWNER: https://www.facebook.com/harley.pacoli.9?mibextid=ZbWKwL`,
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/voEHfHB.gif")
  });
  }
